@@ -1,7 +1,7 @@
-Week-1---HR-Employee-Attrition
+**Week-1---HR-Employee-Attrition**
 Week 1 - Data Sciences 
 
-HR Employee Attrition – Exploratory Data Analysis
+**HR Employee Attrition – Exploratory Data Analysis**
 
 Project Overview
 
@@ -19,7 +19,7 @@ Tools Used
 
 Analysis Performed
 
-The analysis included:
+**The analysis included:**
 
 * Checking the number of rows and columns using `df.shape`
 * Exploring statistical information using `df.describe()`
@@ -31,13 +31,13 @@ The analysis included:
 * Creating bar graphs
 * Exploring patterns related to employee attrition
 
-Key Learning - Insight
+**Key Learning - Insight**
 
 This project helped me understand that EDA is not just about writing code. It involves **understanding the data, identifying patterns, and communicating findings through visualisations**.
 
 It also strengthened my practical skills in Python, Pandas, Matplotlib, and Jupyter Notebook.
 
-Project Files
+**Project Files**
 
 .ipynb` – Jupyter Notebook containing the analysis and Visualisation inspection
 Dataset – HR Employee Attrition dataset
